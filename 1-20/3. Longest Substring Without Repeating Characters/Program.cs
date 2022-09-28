@@ -1,4 +1,5 @@
 ﻿// https://leetcode.com/problems/longest-substring-without-repeating-characters/
+// Difficulty - #Medium
 // Topics - #Hash_Table, #String, #Sliding_Window
 
 string s = "abcabcbb";
