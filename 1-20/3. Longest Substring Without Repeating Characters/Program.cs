@@ -3,10 +3,11 @@
 // Topics - #Hash_Table, #String, #Sliding_Window
 
 string s = "abcabcbb";
-
 int lengthOfLongestSubstring = LengthOfLongestSubstring(s);
 Console.WriteLine(lengthOfLongestSubstring); // 3
 
+// Time complexity  : O(n)
+// Space complexity : O(n)
 int LengthOfLongestSubstring(string s)
 {
     HashSet<char> hs = new();
