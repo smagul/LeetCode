@@ -13,6 +13,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "11. Container With Most Wat
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "121. Best Time to Buy and Sell Stock", "121-140\121. Best Time to Buy and Sell Stock\121. Best Time to Buy and Sell Stock.csproj", "{101E78CF-6FDF-4BC9-A605-95D739A4BC94}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "421-440", "421-440", "{1F73E744-8117-4699-B36B-F2782CB290DA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "424. Longest Repeating Character Replacement", "421-440\424. Longest Repeating Character Replacement\424. Longest Repeating Character Replacement.csproj", "{21EE548E-5981-475C-A4B2-44920DFDDF20}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -31,6 +35,10 @@ Global
 		{101E78CF-6FDF-4BC9-A605-95D739A4BC94}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{101E78CF-6FDF-4BC9-A605-95D739A4BC94}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{101E78CF-6FDF-4BC9-A605-95D739A4BC94}.Release|Any CPU.Build.0 = Release|Any CPU
+		{21EE548E-5981-475C-A4B2-44920DFDDF20}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21EE548E-5981-475C-A4B2-44920DFDDF20}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21EE548E-5981-475C-A4B2-44920DFDDF20}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21EE548E-5981-475C-A4B2-44920DFDDF20}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -39,6 +47,7 @@ Global
 		{EC16B9E9-5EFC-44BA-83D4-02D5DDEC7F9A} = {AC7BBF70-F899-4EE5-A681-64AF17371147}
 		{B8687BC9-AD7A-4685-A29D-E842C0BC9E6C} = {AC7BBF70-F899-4EE5-A681-64AF17371147}
 		{101E78CF-6FDF-4BC9-A605-95D739A4BC94} = {9DE5B79A-8F37-498F-9D52-C2058223B1F9}
+		{21EE548E-5981-475C-A4B2-44920DFDDF20} = {1F73E744-8117-4699-B36B-F2782CB290DA}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {325CD234-752E-4A20-979B-D359A21CD3E9}
