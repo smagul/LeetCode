@@ -8,6 +8,7 @@ Console.WriteLine(lengthOfLongestSubstring); // 3
 
 // Time complexity  : O(n)
 // Space complexity : O(n)
+/*
 int LengthOfLongestSubstring(string s)
 {
     HashSet<char> hs = new();
@@ -25,4 +26,25 @@ int LengthOfLongestSubstring(string s)
     }
 
     return result;
+}
+*/
+
+// Time complexity  : O(n)
+// Space complexity : O(128) = O(1)
+int LengthOfLongestSubstring(string s)
+{
+    int[] count = new int[128];
+    int ans = 0, l = 0;
+
+    for (int r = 0; r < s.Length; r++)
+    {
+        count[s[r]]++;
+        while (count[s[r]] > 1)
+        {
+            --count[s[l++]];
+        }
+        ans = Math.Max(ans, r - l + 1);
+    }
+
+    return ans;
 }
