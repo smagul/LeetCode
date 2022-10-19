@@ -5,39 +5,39 @@ VisualStudioVersion = 17.2.32630.192
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "0001-0020", "0001-0020", "{AC7BBF70-F899-4EE5-A681-64AF17371147}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "3. Longest Substring Without Repeating Characters", "1-20\3. Longest Substring Without Repeating Characters\3. Longest Substring Without Repeating Characters.csproj", "{EC16B9E9-5EFC-44BA-83D4-02D5DDEC7F9A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "0003. Longest Substring Without Repeating Characters", "0001-0020\0003. Longest Substring Without Repeating Characters\0003. Longest Substring Without Repeating Characters.csproj", "{EC16B9E9-5EFC-44BA-83D4-02D5DDEC7F9A}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "0121-0140", "0121-0140", "{9DE5B79A-8F37-498F-9D52-C2058223B1F9}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "11. Container With Most Water", "1-20\11. Container With Most Water\11. Container With Most Water.csproj", "{B8687BC9-AD7A-4685-A29D-E842C0BC9E6C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "0011. Container With Most Water", "0001-0020\0011. Container With Most Water\0011. Container With Most Water.csproj", "{B8687BC9-AD7A-4685-A29D-E842C0BC9E6C}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "121. Best Time to Buy and Sell Stock", "121-140\121. Best Time to Buy and Sell Stock\121. Best Time to Buy and Sell Stock.csproj", "{101E78CF-6FDF-4BC9-A605-95D739A4BC94}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "0121. Best Time to Buy and Sell Stock", "0121-0140\0121. Best Time to Buy and Sell Stock\0121. Best Time to Buy and Sell Stock.csproj", "{101E78CF-6FDF-4BC9-A605-95D739A4BC94}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "0421-0440", "0421-0440", "{1F73E744-8117-4699-B36B-F2782CB290DA}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "424. Longest Repeating Character Replacement", "421-440\424. Longest Repeating Character Replacement\424. Longest Repeating Character Replacement.csproj", "{21EE548E-5981-475C-A4B2-44920DFDDF20}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "0424. Longest Repeating Character Replacement", "0421-0440\0424. Longest Repeating Character Replacement\0424. Longest Repeating Character Replacement.csproj", "{21EE548E-5981-475C-A4B2-44920DFDDF20}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "0561-0580", "0561-0580", "{0EF37512-2A1B-435B-97AA-59BC7596A934}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "567. Permutation in String", "561-580\567. Permutation in String\567. Permutation in String.csproj", "{E36B1BA0-2CC5-4652-86B6-26E66F03FC6E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "0567. Permutation in String", "0561-0580\0567. Permutation in String\0567. Permutation in String.csproj", "{E36B1BA0-2CC5-4652-86B6-26E66F03FC6E}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "0141-0160", "0141-0160", "{D7BE9C8A-F9AF-4D3B-BFBA-9BE2B5EE5F26}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "155. Min Stack", "141-160\155. Min Stack\155. Min Stack.csproj", "{F67D9E05-5589-4D48-866A-6203DE8779EC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "0155. Min Stack", "0141-0160\0155. Min Stack\0155. Min Stack.csproj", "{F67D9E05-5589-4D48-866A-6203DE8779EC}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "150. Evaluate Reverse Polish Notation", "141-160\150. Evaluate Reverse Polish Notation\150. Evaluate Reverse Polish Notation.csproj", "{31FCE1D2-75F6-4D92-BDE2-1A962F7D3EF2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "0150. Evaluate Reverse Polish Notation", "0141-0160\0150. Evaluate Reverse Polish Notation\0150. Evaluate Reverse Polish Notation.csproj", "{31FCE1D2-75F6-4D92-BDE2-1A962F7D3EF2}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "0721-0740", "0721-0740", "{6835CF29-E994-4FFC-AEC4-48C4F04FE04D}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "739. Daily Temperatures", "721-740\739. Daily Temperatures\739. Daily Temperatures.csproj", "{BBCC185B-245E-4041-A734-226A215CCB45}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "0739. Daily Temperatures", "0721-0740\0739. Daily Temperatures\0739. Daily Temperatures.csproj", "{BBCC185B-245E-4041-A734-226A215CCB45}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "0841-0860", "0841-0860", "{68ED4BF2-00BB-4C74-8B64-0010A3C7F1A3}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "853. Car Fleet", "841-860\853. Car Fleet\853. Car Fleet.csproj", "{DC204E66-9A03-4F69-80BD-76B166CD40BC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "0853. Car Fleet", "0841-0860\0853. Car Fleet\0853. Car Fleet.csproj", "{DC204E66-9A03-4F69-80BD-76B166CD40BC}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1. Two Sum", "1-20\1. Two Sum\1. Two Sum.csproj", "{B44E57BC-26D5-4318-AB18-97ACD12C4CDA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "0001. Two Sum", "0001-0020\0001. Two Sum\0001. Two Sum.csproj", "{B44E57BC-26D5-4318-AB18-97ACD12C4CDA}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2. Add Two Numbers", "1-20\2. Add Two Numbers\2. Add Two Numbers.csproj", "{26F9E488-E512-4F87-97CA-0C20082BFC79}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "0002. Add Two Numbers", "0001-0020\0002. Add Two Numbers\0002. Add Two Numbers.csproj", "{26F9E488-E512-4F87-97CA-0C20082BFC79}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "0061-0080", "0061-0080", "{8AF33042-3DD2-483D-A74E-AE7164018F0B}"
 EndProject
