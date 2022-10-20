@@ -8,7 +8,7 @@ int[] speed = new int[] { 2, 4, 1, 1, 3 };
 int numberOfFleets = CarFleet(target, position, speed);
 Console.Write(numberOfFleets); // 3
 
-// Time complexity  : O(nLogn)
+// Time complexity  : O(nlogn)
 // Space complexity : O(n)
 int CarFleet(int target, int[] position, int[] speed)
 {
