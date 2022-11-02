@@ -2,7 +2,7 @@
 // Difficulty - #Easy
 // Topics - #Linked_List, #Recursion
 
-var root = ReverseList(new(1, new(2, new(3, new(4, new(5, null))))));
+var root = ReverseListRecursive(new(1, new(2, new(3, new(4, new(5, null))))));
 while (root != null)
 {
     Console.Write(root.val + " "); // 5,4,3,2,1
@@ -10,8 +10,26 @@ while (root != null)
 }
 
 // Time complexity  : O(n)
+// Space complexity : O(n)
+// Approach 1: Recursive
+ListNode ReverseListRecursive(ListNode head)
+{
+    if (head == null || head.next == null)
+    {
+        return head;
+    }
+
+    ListNode newHead = ReverseListRecursive(head.next);
+    head.next.next = head;
+    head.next = null;
+
+    return newHead;
+}
+
+// Time complexity  : O(n)
 // Space complexity : O(1)
-ListNode ReverseList(ListNode head)
+// Approach 2: Iterative
+ListNode ReverseListIterative(ListNode head)
 {
     ListNode prev = null;
 
